@@ -1,3 +1,4 @@
+Live Hosting Link - https://euphonious-pastelito-ea0efe.netlify.app/
 - This is a blogging web application made using ReactJS and CSS in the frontend.
 - For backend, Nodejs is used and Mongodb database is used.
 
